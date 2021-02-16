@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Kumusta?
 
+I'm Jay, which most Juniors are called in the Philippines. Currenly working on some automation with Github Actions and Terraform. 🌱 Currently learning Python 🐍 and 💉 pen-testing. ⚡ Fun fact, I stream mobile games via Facebook Gaming, post highlights or replays on 📺 Youtube and 💹 Trade in the Philippine Stock Market/Crypto/ForEx.
 <!--
 **hmenorjr/hmenorjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
