@@ -1,4 +1,4 @@
-### Hi there 👋 Kumusta?
+### Hi there, Kumusta?
 
 - 👋 Hi, I’m Jay (@hmenorjr)
 - 👀 I’m interested in creating web applications, automation, cyber-security and emerging technologies.
