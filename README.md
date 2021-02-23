@@ -1,6 +1,17 @@
 ### Hi there 👋 Kumusta?
 
-I'm Jay, which most Juniors are called in the Philippines. Currenly working on some automation with Github Actions and Terraform. 🌱 Currently learning Python 🐍 and 💉 pen-testing. ⚡ Fun fact, I stream mobile games via Facebook Gaming, post highlights or replays on 📺 Youtube and 💹 Trade in the Philippine Stock Market/Crypto/ForEx.
+- 👋 Hi, I’m Jay (@hmenorjr)
+- 👀 I’m interested in creating web applications, automation, cyber-security and emerging technologies.
+- 🌱 I’m currently learning Python and Pen Testing.
+- 💞️ I’m looking to collaborate on CI/CD, automation and bug fixing.
+- 📫 You can reach me at herman.menor@gmail.com
+- ⚡ Fun fact: I'm also a game streamer, PH Stock Trader 📈📉 and athlete (🏀 and 🏂)
+
+<!---
+hermen-paf/hermen-paf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <!--
 **hmenorjr/hmenorjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
