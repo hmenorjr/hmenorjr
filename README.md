@@ -1,5 +1,5 @@
 ### Hello, Friend. 👋 
-I’m Jay. A web and software technologist involved in end-to-end development, prototyping, designing and building object-oriented applications. I'm currently doing business with BaronaIT remotely.
+I’m Jay. A web and software technologist involved in end-to-end development, prototyping, designing and building object-oriented applications. I'm currently doing business with [Barona IT](https://barona.fi) remotely.
 
 ### What I know so far...
 Web development, software development, building micro-services and CI/CD configuration.
