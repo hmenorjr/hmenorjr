@@ -5,7 +5,14 @@ I’m Jay. A web and software technologist involved in end-to-end development, p
 Web development, software development, building micro-services and CI/CD configuration.
 
 ### Technology 
-<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/python-logo.png" />
+<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-javascript.png" />
+<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-html5.png" />
+<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-css3.png" />
+<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-boostrap.png" />
+<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-angular.png" />
+<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-java.png" />
+<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-python.png" />
+<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-redis.png" />
 
 ### Learning 🌱 
 Python and Pen Testing. Just because... 🤣
@@ -23,18 +30,3 @@ I'm a Facebook game streamer, PH Stock Trader 📈📉 and athlete (🏀 and �
 hermen-paf/hermen-paf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<!--
-**hmenorjr/hmenorjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
