@@ -1,11 +1,8 @@
 ### Hello, Friend. 👋 
-I’m Jay. A web and software technologist involved in end-to-end development, prototyping, designing and building object-oriented applications. I'm currently doing business with [Barona IT](https://barona.fi) remotely.
+I’m Jay. A web and software technologist involved in end-to-end development, prototyping, designing and building object-oriented applications. I'm currently doing business with [Barona IT](https://barona.fi) remotely. <img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/programmer.gif" />
 
 ### What I know so far...
 Web development, software development, building micro-services and CI/CD configuration.
-
-### Interested in... 👀 
-Web applications, CI/CD, automation, bug bounty and cryptocurrency.
 
 ### Learning 🌱 
 Python and Pen Testing. Just because... 🤣
