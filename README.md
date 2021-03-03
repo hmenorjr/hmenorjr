@@ -1,11 +1,23 @@
-### Hi there, Kumusta?
+### Hello, Friend. 👋 
+I’m Jay. A web and software technologist involved in end-to-end development, prototyping, designing and building object-oriented applications. I'm currently doing business with BaronaIT remotely.
 
-- 👋 Hi, I’m Jay (@hmenorjr)
-- 👀 I’m interested in creating web applications, automation, cyber-security and emerging technologies.
-- 🌱 I’m currently learning Python and Pen Testing.
-- 💞️ I’m looking to collaborate on CI/CD, automation and bug fixing.
-- 📫 You can reach me at herman.menor@gmail.com
-- ⚡ Fun fact: I'm also a game streamer, PH Stock Trader 📈📉 and athlete (🏀 and 🏂)
+### What I know so far...
+Web development, software development, building micro-services and CI/CD configuration.
+
+### Interested in... 👀 
+Web applications, CI/CD, automation, bug bounty and cryptocurrency.
+
+### Learning 🌱 
+Python and Pen Testing. Just because... 🤣
+
+### Looking to collaborate on... 🤝
+Small web applications that would help a community, open-source and bug bounty.
+
+### Contact 📫 
+Other than email, you can reach me through [Twitter](https://twitter.com/hmenorjr) and [LinkedIn](https://www.linkedin.com/in/hmenorjr).
+
+### Fun Fact ⚡ 
+I'm a Facebook game streamer, PH Stock Trader 📈📉 and athlete (🏀 and 🏂)
 
 <!---
 hermen-paf/hermen-paf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
