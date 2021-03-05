@@ -1,10 +1,7 @@
 ### Hello, Friend. 👋 
-I’m Jay. A web and software technologist involved in end-to-end development, prototyping, designing and building object-oriented applications. I'm currently doing business with [Barona IT](https://barona.fi) remotely. <img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/programmer.gif" alight="right" width="500px" />
+I’m Jay. An experienced technologist in Web development, software development, micro-services and CI/CD. I'm currently doing remote stuff for a DevOps team in Finland. <br /><img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/programmer.gif" alight="right" width="500px" />
 
-### What I know so far...
-Web development, software development, building micro-services and CI/CD configuration.
-
-### Technology 
+### Technologies I know so far...
 <img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-javascript.png" width="90px" />&nbsp;<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-html5.png" width="90px" />&nbsp;<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-css3.png" width="60px" />&nbsp;<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-bootstrap.png" width="90px" />&nbsp;<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-angular.png" width="90px" />
 <img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-java.png" width="50px" />&nbsp;<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-python.png" width="90px" />&nbsp;<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-redis.png" width="300px" />
 
