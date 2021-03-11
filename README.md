@@ -1,5 +1,5 @@
 ### Hello, Friend. 👋 
-I’m Jay. An experienced technologist in Web development, software development, micro-services and CI/CD. I'm currently doing remote stuff for a DevOps team in Finland. <br /><img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/programmer.gif" alight="right" width="500px" />
+I'm a technologist focused in web development, software development, micro-services and CI/CD. I'm currently doing remote stuff for a DevOps team in Finland. <br /><img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/programmer.gif" alight="right" width="500px" />
 
 ### Technologies I know so far...
 <img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-javascript.png" width="90px" />&nbsp;<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-html5.png" width="90px" />&nbsp;<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-css3.png" width="60px" />&nbsp;<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-bootstrap.png" width="90px" />&nbsp;<img src="https://raw.githubusercontent.com/hmenorjr/hmenorjr/main/assets/logo-angular.png" width="90px" />
