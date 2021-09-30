@@ -4,38 +4,12 @@ I'm a Computer Science almnus involved in web development, software development,
 ### Technologies
 ```
 {
-  "frontend": [
-    "HTML5",
-    "CSS3",
-    "JavaScript"
-  ],
-  "backend": [
-    "JavaEE",
-    "PHP",
-    "Python",
-    "Spring Boot"
-  ],
-  "framework": [
-    "Angular",
-    "React"
-  ],
-  "database": [
-    "Oracle",
-    "Redis",
-    "MySQL",
-    "Hibernate"
-  ],
-  "operating_system": [
-    "Linux",
-    "MacOS"
-  ],
-  "other": [
-    "Elasticsearch",
-    "AWS",
-    "Shellscript",
-    "Github",
-    "Gitlab"
-  ]
+  "frontend": ["HTML5", "CSS3", "JavaScript"],
+  "backend": ["JavaEE", "PHP", "Python", "Spring Boot"],
+  "framework": ["Angular", "React"],
+  "database": ["Oracle", "Redis", "MySQL", "Hibernate"],
+  "operating_system": ["Linux", "MacOS"],
+  "other": ["Elasticsearch","AWS", "Shell script", "Github", "Gitlab", "Docker", "Terraform"]
 }
 ```
 
