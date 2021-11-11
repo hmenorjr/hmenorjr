@@ -1,7 +1,7 @@
 ### Hello, Friend. 👋 
-I'm a Computer Science almnus involved in web development, software development, micro-services and CI/CD. I'm currently doing remote stuff for a SysOps team in Finland.
+I'm a Computer Science almnus experienced in web development, software development, micro-services and CICD. I'm currently doing remote stuff for a SysOps team in Finland.
 
-### Technologies
+### Technology Exposure
 ```
 {
   "frontend": ["HTML5", "CSS3", "JavaScript"],
@@ -16,13 +16,13 @@ I'm a Computer Science almnus involved in web development, software development,
 ### Interests 🤝
 Small web applications that would help a community, open-source and bug bounty.
 
-### Contact 📫 
-If it's a personal one don't use my company email, you can reach me through [Twitter](https://twitter.com/hmenorjr) and [LinkedIn](https://www.linkedin.com/in/hmenorjr).
+### Other Accounts 📫 
+Remember to follow me on either of these platforms: [Twitter](https://twitter.com/hmenorjr) and [LinkedIn](https://www.linkedin.com/in/hmenorjr).
 
 ### Fun Fact ⚡ 
-I'm a game streamer, PH Stock Trader 📈📉 and athlete (🏀  and 🏂)
+I'm a game streamer, seasonal trader 📈📉 and athlete (🏀  and 🏂)
 
 <!---
-hermen-paf/hermen-paf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hmenorjr/hmenorjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
