@@ -1,5 +1,5 @@
 ### Hello, Friend. 👋 
-I'm a Computer Science almnus experienced in web development, software development, micro-services and CICD. I'm currently doing remote stuff for a SysOps team in Finland.
+I'm a Computer Science almnus experienced in web development, software development, micro-services and CICD. I'm currently doing stuff for a DevOps team in Finland.
 
 ### Technology Exposure
 ```
@@ -8,16 +8,15 @@ I'm a Computer Science almnus experienced in web development, software developme
   "backend": ["JavaEE", "PHP", "Python", "Spring Boot"],
   "framework": ["Angular", "React"],
   "database": ["Oracle", "Redis", "MySQL", "Hibernate"],
-  "operating_system": ["Linux", "MacOS"],
-  "other": ["Elasticsearch","AWS", "Shell script", "Github", "Gitlab", "Docker", "Terraform"]
+  "operating_system": ["CentOS", "Ubuntu-gnome", "OSX"],
+  "other": ["Elasticsearch","AWS", "Shell script", "Github", "Gitlab", "Docker", "Docker-compose", "Terraform"]
 }
 ```
 
 ### Interests 🤝
-Small web applications that would help a community, open-source and bug bounty.
-
-### Other Accounts 📫 
-Remember to follow me on either of these platforms: [Twitter](https://twitter.com/hmenorjr) and [LinkedIn](https://www.linkedin.com/in/hmenorjr).
+- Simple JAM stack apps
+- Cryptocurrency
+- NFT
 
 ### Fun Fact ⚡ 
 I'm a game streamer, seasonal trader 📈📉 and athlete (🏀  and 🏂)
