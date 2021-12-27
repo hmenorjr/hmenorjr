@@ -2,16 +2,15 @@
 I'm a Computer Science almnus experienced in web development, software development, micro-services and CICD. I'm currently doing stuff for a DevOps team in Finland.
 
 ### Technology Exposure
-```
-{
-  "frontend": ["HTML5", "CSS3", "JavaScript"],
-  "backend": ["JavaEE", "PHP", "Python", "Spring Boot"],
-  "framework": ["Angular", "React"],
-  "database": ["Oracle", "Redis", "MySQL", "Hibernate"],
-  "operating_system": ["CentOS", "Ubuntu-gnome", "OSX"],
-  "other": ["Elasticsearch","AWS", "Shell script", "Github", "Gitlab", "Docker", "Docker-compose", "Terraform"]
-}
-```
+| Front-End | Back-End | Framework | Database | Operating System | Other(s) |
+| --- | --- | --- | --- | --- | --- |
+| HTML5 | JavaEE | Angular | Oracle | CentOS | Elasticsearch |
+| CSS3 | PHP | React | Redis | Ubuntu (Gnome) | AWS |
+| JavaScript | Python  | | MySQL | OSX | Shell scripts |
+| | Springboot |  | Hibernate |  | Github |
+| | |  |  |  | Gitlab |
+| | |  |  |  | Docker |
+| | |  |  |  | Terraform |
 
 ### Interests 🤝
 - Simple JAM stack apps
