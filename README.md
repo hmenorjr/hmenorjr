@@ -12,10 +12,10 @@ I'm a Computer Science almnus experienced in web development, software developme
 | | |  |  |  | Docker |
 | | |  |  |  | Terraform |
 
-### Interests 🤝
-- Simple JAM stack apps
+### Interests 🤔
+- JAM stack
 - Cryptocurrency
-- NFT
+- NFT games
 
 ### Fun Fact ⚡ 
 I'm a game streamer, seasonal trader 📈📉 and athlete (🏀  and 🏂)
