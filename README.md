@@ -18,7 +18,7 @@ I'm a Computer Science almnus experienced in web development, software developme
 - NFT games
 
 ### Fun Fact ⚡ 
-I'm a game streamer, seasonal trader 📈📉 and athlete (🏀  and 🏂)
+I'm a game streamer, seasonal trader 📈📉 and athlete (🏀  and 🏂) who recently moved to Åland Islands, Finland.
 
 <!---
 hmenorjr/hmenorjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
