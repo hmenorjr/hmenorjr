@@ -1,5 +1,5 @@
 ### Hello, Friend. 👋 
-I'm a Computer Science almnus experienced in web development, software development, micro-services and CICD. I'm currently doing stuff for a DevOps team in Finland.
+I'm a Computer Science almnus experienced in web development, software development, micro-services and CICD. I'm currently doing DevOps stuff for a SysOps team in Finland.
 
 ### Technology Exposure
 | Front-End | Back-End | Framework | Database | Operating System | Other(s) |
@@ -18,7 +18,7 @@ I'm a Computer Science almnus experienced in web development, software developme
 - NFT games
 
 ### Fun Fact ⚡ 
-I'm a game streamer, seasonal trader 📈📉 and athlete (🏀  and 🏂) who recently moved to Åland Islands, Finland.
+I'm a gamer, seasonal trader 📈📉 and athlete (🏀  and 🏂) who recently moved to Åland Islands, Finland.
 
 <!---
 hmenorjr/hmenorjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
