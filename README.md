@@ -1,16 +1,17 @@
 ### Hello, Friend. 👋 
-I'm a Computer Science almnus experienced in web development, software development, micro-services and CICD. I'm currently doing DevOps stuff for a SysOps team in Finland.
+I'm a Computer Science almnus experienced in web development, software development, micro-services architecture and CICD. I'm currently doing DevOps stuff for a SysOps team in Finland.
 
 ### Technology Exposure
-| Front-End | Back-End | Framework | Database | Operating System | Other(s) |
+| Front-End (inc. Framework) | Back-End (incl. Framework| Database | Operating System | Other(s) |
 | --- | --- | --- | --- | --- | --- |
-| HTML5 | JavaEE | Angular | Oracle | CentOS | Elasticsearch |
-| CSS3 | PHP | React | Redis | Ubuntu (Gnome) | AWS |
-| JavaScript | Python  | | MySQL | OSX | Shell scripts |
-| | Springboot |  | Hibernate |  | Github |
-| | |  |  |  | Gitlab |
-| | |  |  |  | Docker |
-| | |  |  |  | Terraform |
+| HTML5 | JavaEE | Oracle | CentOS | Elasticsearch |
+| CSS3 | PHP | Redis | Ubuntu (Gnome) | AWS |
+| JavaScript | Python  | MySQL | OSX | Shell scripts |
+| Angular | Spring Boot | Hibernate |  | Github |
+| React | |  | | Gitlab |
+| Bootstrap | |  | | Docker |
+| | |  | | Terraform |
+| | |  | | MVC Pattern |
 
 ### Interests 🤔
 - JAM stack
