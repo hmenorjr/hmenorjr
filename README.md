@@ -1,5 +1,5 @@
 ### Hello, Friend. 👋 
-I'm a Computer Science almnus experienced in web development, software development, micro-services architecture and CICD. I'm currently doing DevOps stuff for a SysOps team in Finland.
+I'm a Computer Science almnus experienced in web app development, software development, micro-services architecture and CICD. I like building stuff with different technology, programming language, boiler-plates and frameworks. I always want to learn new stuff, thus, I do freelancing on my spare time. :)
 
 ### Technology Exposure
 | Front-End (inc. Framework) | Back-End (incl. Framework) | Database | Operating System | Other(s) |
@@ -15,8 +15,8 @@ I'm a Computer Science almnus experienced in web development, software developme
 
 ### Interests 🤔
 - JAM stack
-- Cryptocurrency
-- NFT games
+- Blockchain
+- Freelancing
 
 ### Fun Fact ⚡ 
 I'm a gamer, seasonal trader 📈📉 and athlete (🏀  and 🏂) who recently moved to Åland Islands, Finland.
