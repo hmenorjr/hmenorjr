@@ -1,25 +1,22 @@
 ### Hello, Friend. 👋 
-I'm a Computer Science almnus experienced in web app development, software development, micro-services architecture and CICD. I like building stuff with different technology, programming language, boiler-plates and frameworks. I always want to learn new stuff, thus, I do freelancing on my spare time. :)
+I'm a Computer Science almnus experienced in web app development for more than a decade but inclined on the back-end. Planning to move or practice more on the front-end I like building and exprimenting with different technology, programming language, boiler-plates and frameworks.
 
 ### Technology Exposure
-| Front-End (inc. Framework) | Back-End (incl. Framework) | Database | Operating System | Other(s) |
-| --- | --- | --- | --- | --- |
-| HTML5 | JavaEE | Oracle | CentOS | Elasticsearch |
-| CSS3 | PHP | Redis | Ubuntu (Gnome) | AWS |
-| JavaScript | Python  | MySQL | OSX | Shell scripts |
-| Angular | Spring Boot | Hibernate |  | Github |
-| React |  |  | | Gitlab |
-| Bootstrap |  |  | | Docker |
-| |  |  |  | Terraform |
-| |  |  |  | MVC Pattern |
+| Front-End (inc. Framework)    | Back-End (incl. Framework) | Database    | Operating System  | Other(s)       |
+| ---                           | ---                        | ---         | ---               | ---            |
+| HTML5                         | Java                       | Oracle      | CentOS            | Elasticsearch  |
+| CSS3                          | Python                     | Redis       | Ubuntu (Gnome)    | AWS            |
+| JavaScript                    | PHP                        | MySQL       | OSX               | Shell scripts  |
+| TypeScript                    | Spring Boot                | Hibernate   |                   | Git            |
+| React                         | Node.js                    |             |                   | Docker         |
+| Bootstrap                     |                            |             |                   | Terraform      |
+| Angular                       |                            |             |                   |                |
 
 ### Interests 🤔
-- JAM stack
-- Blockchain
-- Freelancing
+JAM stack, web development, API, basketball, mobile games, traveling and extra moolah!
 
 ### Fun Fact ⚡ 
-I'm a gamer, seasonal trader 📈📉 and athlete (🏀  and 🏂) who recently moved to Åland Islands, Finland.
+I used to be a game streamer. Thinking if I should go back. I'm a Filipino who moved to the Nordics.
 
 <!---
 hmenorjr/hmenorjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
