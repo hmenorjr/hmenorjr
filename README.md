@@ -13,11 +13,10 @@ I'm a Computer Science almnus experienced in web app development for more than a
 | Angular                       |                            |             |                   |                |
 
 ### Interests 🤔
-JAM stack, web development, API, basketball, mobile games, traveling and extra moolah!
+JAM stack, APIs, basketball, mobile games, traveling and building web applications for small to medium sized businesses.
 
 ### Fun Fact ⚡ 
-I used to be a game streamer. Thinking if I should go back. I'm a Filipino who moved to the Nordics.
-
+I used to be a game streamer, thinking if I should go back. I'm a Filipino who moved to Åland Islands, Finland. I practice coding via [![hmenorjr's codewars profile](https://www.codewars.com/users/hmenorjr/badges/small)](https://www.codewars.com/users/hmenorjr)
 <!---
 hmenorjr/hmenorjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
