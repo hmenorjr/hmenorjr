@@ -16,7 +16,7 @@ I'm a Computer Science almnus experienced in web app development for more than a
 JAM stack, APIs, basketball, mobile games, traveling and building web applications for small to medium sized businesses.
 
 ### Fun Fact ⚡ 
-I used to be a game streamer, thinking if I should go back. I'm a Filipino who moved to Åland Islands, Finland. I practice coding via [![hmenorjr's codewars profile](https://www.codewars.com/users/hmenorjr/badges/small)](https://www.codewars.com/users/hmenorjr)
+I used to be a game streamer, thinking if I should go back. I'm a Filipino who moved to Åland Islands, Finland. I practice coding via [HackerRank](https://www.hackerrank.com/hmenorjr)
 <!---
 hmenorjr/hmenorjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
