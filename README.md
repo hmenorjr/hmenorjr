@@ -16,13 +16,13 @@ I'm a Computer Science almnus experienced in web app and software development fo
 - JAM stack
 - APIs
 - Automation
+- Landing page development
 
 ### Fun Fact ⚡ 
-- I used to be a game streamer, thinking if I should go back.
-- I practice coding via [HackerRank](https://www.hackerrank.com/hmenorjr)
-- I sometimes blog the tech solutions at my [personal website](https://hmenorjr.github.io/blog/)
-- I play Basketball, watch Marvel and play mobile games
-- I am traveling (and eating) at least once a year to other countries as Rurouni for my mental health.
+- I used to be a game streamer
+- I sometimes blog the tech solutions at my personal website
+- Likes Basketball, watch Marvel and play mobile games
+- A traveler (and eating) at least once a year to other countries and explore other cultures.
 <!---
 hmenorjr/hmenorjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
