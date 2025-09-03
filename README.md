@@ -1,5 +1,5 @@
 ### Hello, Friend. 👋 
-I'm a Computer Science almnus experienced in web app and software development for more than a decade. I'm a Filipino (Philippines), currently based in Åland Islands, Finland. My main tech stack is Java and Spring Boot but I also dabble with HTML, CSS, JavaScript/TypeScript and NodeJS.
+I'm Herman. A Computer Science almnus from the Philippines. Experienced in web app and software development for more than a decade. Currently based in Åland Islands, Finland. My main tech stack is Java and Spring Boot but I also dabble with HTML, CSS, JavaScript/TypeScript, NodeJS and Python.
 
 ### Technology Exposure 🧑🏽‍💻
 | Front-End (inc. Framework)    | Back-End (incl. Framework) | Database    | Operating System  | Other(s)       |
@@ -16,13 +16,16 @@ I'm a Computer Science almnus experienced in web app and software development fo
 - JAM stack
 - APIs
 - Automation
-- Landing page development
+- Landing pages
 
 ### Fun Fact ⚡ 
-- I used to be a game streamer
-- I sometimes blog the tech solutions at my personal website
-- Likes Basketball, watch Marvel and play mobile games
-- A traveler (and eating) at least once a year to other countries and explore other cultures.
+- Ex-Bboy, baller and gamer. Still play mobile games.
+- I blog the tech solutions I solved on my daily life.
+- Plays Basketball sometimes.
+- A Ronin
+
+### Business
+For business inquiries, reach out via email.
 <!---
 hmenorjr/hmenorjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
