@@ -1,5 +1,5 @@
 ### Hello, Friend. 👋 
-I'm Herman. A Computer Science almnus from the Philippines. Experienced in web app and software development for more than a decade. Currently based in Åland Islands, Finland. My main tech stack is Java and Spring Boot but I also dabble with HTML, CSS, JavaScript/TypeScript, NodeJS and Python.
+I'm Herman. A Computer Science alumnus from the Philippines. Experienced in web app and software development for more than a decade. Currently based in Åland Islands, Finland. Currently a Platform Engineer in Finland. My main tech stack is Java and Spring Boot but I also dabble with HTML, CSS, JavaScript/TypeScript, NodeJS and Python.
 
 ### Technology Exposure 🧑🏽‍💻
 | Front-End (inc. Framework)    | Back-End (incl. Framework) | Database    | Operating System  | Other(s)       |
